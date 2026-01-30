@@ -11,7 +11,7 @@ void main (){
   print("Hello , ${str1}${str2}");
   // other methods
   var num = 56;
-  print("Total marks : " +num .toString());
+  print("Total marks : " +num.toString());
 
 
 }
