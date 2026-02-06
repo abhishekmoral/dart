@@ -29,4 +29,5 @@ class Nurse extends Employee {
   void getEmployeeType() {
     print(" Employee Type : Nurse");
   }
+}
 
